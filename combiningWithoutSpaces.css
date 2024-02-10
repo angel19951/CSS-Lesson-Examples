@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+    height: 100%;
+    width: 100%;
+}
+
+div.myDivClass {
+    background-color: white;
+}
+
+div.myDivClass p.myPClass {
+    font-size: 100px;
+}

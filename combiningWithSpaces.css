@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+    height: 100%;
+    width: 100%;
+}
+
+body div {
+    background-color: white;
+}
+
+body div p {
+    font-size: 100px;
+}
